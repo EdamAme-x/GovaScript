@@ -1,0 +1,2 @@
+# GovaScript
+Altjs like golang
